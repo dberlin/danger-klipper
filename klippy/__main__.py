@@ -1,3 +1,3 @@
-from .klippy import main
+from .printer import main
 
 main()
